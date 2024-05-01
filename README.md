@@ -1,4 +1,4 @@
-# LojaGames
+# Emirados2000 - Gamers Shop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
